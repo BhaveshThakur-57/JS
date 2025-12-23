@@ -1,4 +1,4 @@
-const descripter = Object.getOwnPropertyDescriptor(Math, "PI")
+object_get_set.jsconst descripter = Object.getOwnPropertyDescriptor(Math, "PI")
 
 // console.log(descripter);
 
